@@ -46,3 +46,11 @@ h1{
 	margin:24px 0 6px;
 	color:#9d9d9d;
 }
+
+.visually-hidden{
+  clip:rect(1px, 1px, 1px, 1px);
+  height:1px;
+  overflow:hidden;
+  position:absolute !important;
+  width:1px;
+}
